@@ -2,7 +2,7 @@ class BrewStale < Formula
   desc "Find Homebrew packages you never use"
   homepage "https://github.com/darronz/brew-stale"
   url "https://github.com/darronz/brew-stale/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "PLACEHOLDER"
+  sha256 "263a89c972d2d7ce01f958f588363a4dbf11c23a264dbc7f899e976c3c425fef"
   license "MIT"
 
   def install
